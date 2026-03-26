@@ -1,0 +1,19 @@
+{
+  "name": "projectdeploy",
+  "version": "1.0.0",
+  "description": "A basic Node.js backend app built with Express, dotenv, and MySQL (optional) for learning purposes. Includes example API routes to fetch and manage data, ideal for practicing deployment and connecting with a frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "reeti singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
